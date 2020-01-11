@@ -14,7 +14,7 @@
 | 8   |                                                    |              |
 | 9   | API testing of Pg Booking System(User Module)      | Private Repo |
 | 10  | Delete User and Saving Profile image in Cloudinary | Private Repo |
-| 11  |                                                    |              |
+| 11  | user_controller done! API Testing is remaining     | Private Repo |
 | 12  |                                                    |              |
 | 13  |                                                    |              |
 | 14  |                                                    |              |
