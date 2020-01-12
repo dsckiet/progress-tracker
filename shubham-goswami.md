@@ -15,7 +15,7 @@
 |9|ISBIAS<br>Cost of balloons<br>Life, the Universe, and Everything<br> LEBOMBS<br>RAINBOWA<br>WATSCORE|ongoing contest<br>[AC](https://www.hackerearth.com/submission/34971504/)<br>[AC](https://www.hackerearth.com/submission/34971586/)<br>[AC](https://www.codechef.com/viewsolution/28850058)<br>[AC](https://www.codechef.com/viewsolution/28851097)<br>[AC](https://www.codechef.com/viewsolution/28843419)|
 |10|SAVKONO<br>1213B - Bad Prices<br>1200A - Hotelier<br>1165B - Polycarp Training<br>4C - Registration System|[AC](https://www.codechef.com/viewsolution/28876745)<br>[AC](https://codeforces.com/problemset/submission/1213/68478654)<br>[AC](https://codeforces.com/problemset/submission/1200/68479181)<br>[AC](https://codeforces.com/contest/1165/submission/68482564)<br>[AC](https://codeforces.com/problemset/submission/4/68483270)|
 |11|Lazy Chozi|[AC](https://www.codechef.com/viewsolution/28920388)|
-|12|||
+|12|Completed quizzler-app<br>destini app challenge<br>SS1|[view](https://github.com/sgshubham98/quizzler-flutter)<br>[view](https://github.com/sgshubham98/destini-challenge-starting)<br>[AC](https://www.codechef.com/viewsolution/28920388)|
 |13|||
 |14|||
 |15|||
