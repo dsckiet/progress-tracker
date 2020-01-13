@@ -16,7 +16,7 @@
 |10|||
 |11|||
 |12|Dragons <br> Queue at the School |[view](https://codeforces.com/contest/230/submission/68633415) <br> [view](https://codeforces.com/contest/266/submission/68633754)|
-|13|||
+|13|Dreamoon and Stairs <br> Xenia and Ringroad|[view](https://codeforces.com/contest/476/submission/68725374) <br> [view](https://codeforces.com/contest/339/submission/68725825)|
 |14|||
 |15|||
 |16|||
