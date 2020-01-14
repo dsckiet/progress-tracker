@@ -17,7 +17,7 @@
 |11|Lazy Chozi|[AC](https://www.codechef.com/viewsolution/28920388)|
 |12|Completed quizzler-app<br>destini app challenge<br>SS1|[view](https://github.com/sgshubham98/quizzler-flutter)<br>[view](https://github.com/sgshubham98/destini-challenge-starting)<br>[AC](https://www.codechef.com/viewsolution/28920388)|
 |13|English|[AC]()|
-|14|||
+|14|50A<br>266A<br>236A|[AC](https://codeforces.com/problemset/submission/50/68813221)<br>[AC](https://codeforces.com/problemset/submission/266/68814091)<br>[AC](https://codeforces.com/problemset/submission/236/68815920)|
 |15|||
 |16|||
 |17|||
