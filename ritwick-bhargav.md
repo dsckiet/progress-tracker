@@ -18,7 +18,7 @@
 | 12  | API Testing done                                   | Private Link                                                               |
 | 13  | Few Updates on code and learned about STL in C++   | Private Repo                                                               |
 | 14  | API Testing completed, working on frontend!        | [user_controller](https://documenter.getpostman.com/view/7935280/SWLk251p) |
-| 15  |                                                    |                                                                            |
+| 15  | Front-end Integration                              | [website link](https://getmypgonline.herokuapp.com)                        |
 | 16  |                                                    |                                                                            |
 | 17  |                                                    |                                                                            |
 | 18  |                                                    |                                                                            |
