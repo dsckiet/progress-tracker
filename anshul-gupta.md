@@ -19,7 +19,7 @@
 |13|Solved Codechef Long Challenge(Jan 2020) Problems 💻 <br>Taking Session On Vector STL-C++ 😄 |[Long Challenge](https://www.codechef.com/JAN20B) <br> [Doc](https://github.com/dsckiet/CP-Sessions/blob/master/Vector-STL%20(13-Jan))|
 |14|Solve Problems on Educational CF Round 80|[Link](https://codeforces.com/contest/1288)|
 |15|Studying course on Android (Kotlin) 🚀|[Course Link](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)|
-|16|||
+|16|Same course and Trivia(Quiz) App |[Repo](https://github.com/Anshul1507/Udacity-Kotlin/tree/master/AndroidTrivia)|
 |17|||
 |18|||
 |19|||
