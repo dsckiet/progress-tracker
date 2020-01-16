@@ -15,10 +15,10 @@
 | 9   | Internship Tasks                                   | Private Repo                                                                  |
 | 10  | Internship Tasks<br> DSC Website Backend PR Review | Private Repo<br> [Link](https://github.com/dsckiet/website-backend-v2/pull/2) |
 | 11  | -                                                  | -                                                                             |
-| 12  |                                                    |                                                                               |
-| 13  |                                                    |                                                                               |
-| 14  |                                                    |                                                                               |
-| 15  |                                                    |                                                                               |
+| 12  | Internship Code Revision                           | Private Repo                                                                  |
+| 13  | Internship Tasks                                   | Private Repo                                                                  |
+| 14  | Internship Tasks                                   | Private Repo                                                                  |
+| 15  | Internship Tasks                                   | Private Repo                                                                  |
 | 16  |                                                    |                                                                               |
 | 17  |                                                    |                                                                               |
 | 18  |                                                    |                                                                               |
