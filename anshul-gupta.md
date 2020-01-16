@@ -16,8 +16,8 @@
 |10|UI for same app <br> Design for Search Page and Change Password Page|update soon|
 |11|UI for same app <br> Design for Add Task Page <br> Home Coming ❤️|update soon|
 |12|First Open-Source Contribution(JMOC) 🚀|[Repo](https://github.com/rob729/Quiet_Hours)|
-|13|||
-|14|||
+|13|Solved Codechef Long Challenge(Jan 2020) Problems 💻 <br>Taking Session On Vector STL-C++ 😄 |[Long Challenge](https://www.codechef.com/JAN20B) <br> [Doc](https://github.com/dsckiet/CP-Sessions/blob/master/Vector-STL%20(13-Jan))|
+|14|Solve Problems on Educational CF Round 80|[Link](https://codeforces.com/contest/1288)|
 |15|||
 |16|||
 |17|||
