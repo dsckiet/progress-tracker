@@ -20,7 +20,7 @@
 | 14  | API Testing completed, working on frontend!                                                | [user_controller](https://documenter.getpostman.com/view/7935280/SWLk251p) |
 | 15  | Front-end Integration                                                                      | [website link](https://getmypgonline.herokuapp.com)                        |
 | 16  | Login Added on [GetMyPGOnline](https://getmypgonline.herokuapp.com) & Understood Shopkart! | [website link](https://getmypgonline.herokuapp.com) & Private Repo         |
-| 17  |                                                                                            |                                                                            |
+| 17  | Working on Shopkart workflow!                                                              | Private Repo                                                               |
 | 18  |                                                                                            |                                                                            |
 | 19  |                                                                                            |                                                                            |
 | 20  |                                                                                            |                                                                            |
