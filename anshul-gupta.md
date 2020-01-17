@@ -20,7 +20,7 @@
 |14|Solve Problems on Educational CF Round 80|[Link](https://codeforces.com/contest/1288)|
 |15|Studying course on Android (Kotlin) 🚀|[Course Link](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)|
 |16|Same course and Trivia(Quiz) App |[Repo](https://github.com/Anshul1507/Udacity-Kotlin/tree/master/AndroidTrivia)|
-|17|||
+|17|Learn About App Navigation|[Repo](https://github.com/Anshul1507/Udacity-Kotlin/tree/master/AndroidTrivia)|
 |18|||
 |19|||
 |20|||
