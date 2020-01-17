@@ -18,9 +18,9 @@
 |12|Learning User Experience Design Essentials(Wireframe)|No Repo|
 |13|||
 |14|UI for app of sih|[UI](https://xd.adobe.com/view/e575a04d-2054-4de2-60b4-e0b5ae608058-9344)|
-|15|Stared working on app for SIH|add soon|
-|16|||
-|17|||
+|15|Stared working on app for SIH|[Repo](https://github.com/shubham100ev/help_me)|
+|16|Worked on app for SIH|[Repo](https://github.com/shubham100ev/help_me)|
+|17|Lucky Division<br>Chat room<br> Twins|[AC](https://codeforces.com/contest/122/submission/68988010)<br>[AC](https://codeforces.com/contest/58/submission/68985793)<br>[AC](https://codeforces.com/contest/160/submission/68983389)|
 |18|||
 |19|||
 |20|||
