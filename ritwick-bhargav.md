@@ -2,38 +2,38 @@
 
 > **January, 2020**
 
-| Day | What did you worked on?                            | Link                                                                       |
-| --- | -------------------------------------------------- | -------------------------------------------------------------------------- |
-| 1   | Integrated Cloudinary in node.js                   | Private Repo                                                               |
-| 2   | Work on Pg Booking System                          | Private Repo                                                               |
-| 3   | OTP Reverification with MSG91                      | Private Repo                                                               |
-| 4   |                                                    |                                                                            |
-| 5   |                                                    |                                                                            |
-| 6   |                                                    |                                                                            |
-| 7   |                                                    |                                                                            |
-| 8   |                                                    |                                                                            |
-| 9   | API testing of Pg Booking System(User Module)      | Private Repo                                                               |
-| 10  | Delete User and Saving Profile image in Cloudinary | Private Repo                                                               |
-| 11  | user_controller done! API Testing is remaining     | Private Repo                                                               |
-| 12  | API Testing done                                   | Private Link                                                               |
-| 13  | Few Updates on code and learned about STL in C++   | Private Repo                                                               |
-| 14  | API Testing completed, working on frontend!        | [user_controller](https://documenter.getpostman.com/view/7935280/SWLk251p) |
-| 15  | Front-end Integration                              | [website link](https://getmypgonline.herokuapp.com)                        |
-| 16  |                                                    |                                                                            |
-| 17  |                                                    |                                                                            |
-| 18  |                                                    |                                                                            |
-| 19  |                                                    |                                                                            |
-| 20  |                                                    |                                                                            |
-| 21  |                                                    |                                                                            |
-| 22  |                                                    |                                                                            |
-| 23  |                                                    |                                                                            |
-| 24  |                                                    |                                                                            |
-| 25  |                                                    |                                                                            |
-| 26  |                                                    |                                                                            |
-| 27  |                                                    |                                                                            |
-| 28  |                                                    |                                                                            |
-| 29  |                                                    |                                                                            |
-| 30  |                                                    |                                                                            |
-| 31  |                                                    |                                                                            |
+| Day | What did you worked on?                                                                    | Link                                                                       |
+| --- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
+| 1   | Integrated Cloudinary in node.js                                                           | [Repo](https://github.com/RitwickBhargav/GetMyPGOnline)                    |
+| 2   | Work on Pg Booking System                                                                  | [Repo](https://github.com/RitwickBhargav/GetMyPGOnline)                    |
+| 3   | OTP Reverification with MSG91                                                              | [Repo](https://github.com/RitwickBhargav/GetMyPGOnline)                    |
+| 4   |                                                                                            |                                                                            |
+| 5   |                                                                                            |                                                                            |
+| 6   |                                                                                            |                                                                            |
+| 7   |                                                                                            |                                                                            |
+| 8   |                                                                                            |                                                                            |
+| 9   | API testing of Pg Booking System(User Module)                                              | [Repo](https://github.com/RitwickBhargav/GetMyPGOnline)                    |
+| 10  | Delete User and Saving Profile image in Cloudinary                                         | [Repo](https://github.com/RitwickBhargav/GetMyPGOnline)                    |
+| 11  | user_controller done! API Testing is remaining                                             | [Repo](https://github.com/RitwickBhargav/GetMyPGOnline)                    |
+| 12  | API Testing done                                                                           | [Repo](https://github.com/RitwickBhargav/GetMyPGOnline)                    |
+| 13  | Few Updates on code and learned about STL in C++                                           | Private Repo                                                               |
+| 14  | API Testing completed, working on frontend!                                                | [user_controller](https://documenter.getpostman.com/view/7935280/SWLk251p) |
+| 15  | Front-end Integration                                                                      | [website link](https://getmypgonline.herokuapp.com)                        |
+| 16  | Login Added on [GetMyPGOnline](https://getmypgonline.herokuapp.com) & Understood Shopkart! | [Repo](https://github.com/RitwickBhargav/GetMyPGOnline) & Private Repo     |
+| 17  | Working on Shopkart workflow!                                                              | Private Repo                                                               |
+| 18  |                                                                                            |                                                                            |
+| 19  |                                                                                            |                                                                            |
+| 20  |                                                                                            |                                                                            |
+| 21  |                                                                                            |                                                                            |
+| 22  |                                                                                            |                                                                            |
+| 23  |                                                                                            |                                                                            |
+| 24  |                                                                                            |                                                                            |
+| 25  |                                                                                            |                                                                            |
+| 26  |                                                                                            |                                                                            |
+| 27  |                                                                                            |                                                                            |
+| 28  |                                                                                            |                                                                            |
+| 29  |                                                                                            |                                                                            |
+| 30  |                                                                                            |                                                                            |
+| 31  |                                                                                            |                                                                            |
 
 ---
