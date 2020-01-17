@@ -13,14 +13,14 @@
 |7|Added more examples in Nextjs relating with react|[Repo](https://github.com/rhnmht30/nextjs-samples)|
 |8|Started working again on DSC-website-backend|[Repo](https://github.com/dsckiet/website-backend-v2)|
 |9|Opened first PR with project setup and minor changes|[Pull Request](https://github.com/dsckiet/website-backend-v2/pull/2)|
-|10|||
-|11|||
-|12|||
-|13|||
-|14|||
-|15|||
-|16|||
-|17|||
+|10|Continued working of minor changes for DSC backend|[Repo](https://github.com/dsckiet/website-backend-v2)
+|11|Working on Private project - coderbano|Private repo|
+|12|Working on Private project - coderbano|Private repo|
+|13|Working on Private project - coderbano|Private repo|
+|14|Working on Private project - coderbano|Private repo|
+|15|Took some break off coding|[YouTube](https://youtube.com)|
+|16|Working on Private project - coderbano|Private repo|
+|17|College hits|[KIET](http://kiet.edu)|
 |18|||
 |19|||
 |20|||
