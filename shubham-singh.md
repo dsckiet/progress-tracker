@@ -21,7 +21,7 @@
 |15|Stared working on app for SIH|[Repo](https://github.com/shubham100ev/help_me)|
 |16|Worked on app for SIH|[Repo](https://github.com/shubham100ev/help_me)|
 |17|Lucky Division<br>Chat room<br> Twins|[AC](https://codeforces.com/contest/122/submission/68988010)<br>[AC](https://codeforces.com/contest/58/submission/68985793)<br>[AC](https://codeforces.com/contest/160/submission/68983389)|
-|18|||
+|18|Worked on app for SIH<br>Presents|[Repo](https://github.com/shubham100ev/help_me)<br>[AC](http://codeforces.com/contest/136/submission/69067726)|
 |19|||
 |20|||
 |21|||
