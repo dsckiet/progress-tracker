@@ -20,8 +20,8 @@
 |14|50A<br>266A<br>236A|[AC](https://codeforces.com/problemset/submission/50/68813221)<br>[AC](https://codeforces.com/problemset/submission/266/68814091)<br>[AC](https://codeforces.com/problemset/submission/236/68815920)|
 |15|A - Deadline<br>B - Yet Another Meme Problem<br>C - Two Arrays<br>B - Taxi<br>A - Soldier and Bananas<br>A - HQ9+<br>A - cAPS lOCK<br>A - Nearly Lucky Number<br>A - Tram<br>A - Elephant<br>B - Interesting drink|[AC](https://codeforces.com/contest/1288/submission/68840958)<br>[AC](https://codeforces.com/contest/1288/submission/68842602)<br>[AC](https://codeforces.com/contest/1288/submission/68844027)<br>[AC](https://codeforces.com/contest/158/submission/68845986)<br>[AC](https://codeforces.com/contest/546/submission/68849422)<br>[AC](https://codeforces.com/contest/133/submission/68849866)<br>[AC](https://codeforces.com/contest/131/submission/68850572)<br>[AC](https://codeforces.com/contest/110/submission/68850978)<br>[AC](https://codeforces.com/contest/116/submission/68851422)<br>[AC](https://codeforces.com/contest/617/submission/68851817)<br>[AC](https://codeforces.com/contest/706/submission/68854557)|
 |16|MINIAND<br>VILLINE<br>GRUBAN|[AC](https://www.codechef.com/viewsolution/29009661)<br>[AC](https://www.codechef.com/viewsolution/29011304)<br>[AC](https://www.codechef.com/viewsolution/29013805)|
-|17|||
-|18|||
+|17|PRTAGN|[Partial](https://www.codechef.com/viewsolution/29031252)|
+|18|PRTAGN<br>COWA19F<br>COWA19C<br>2A<br>Day-3(Codathon)|[AC](https://www.codechef.com/viewsolution/29031339)<br>[AC](https://www.codechef.com/viewsolution/29041565)<br>[AC](https://www.codechef.com/viewsolution/29041805)<br>[AC](https://codeforces.com/contest/2/submission/69061708)<br>Partial(ongoing contest)|
 |19|||
 |20|||
 |21|||
