@@ -20,8 +20,8 @@
 | 14  | API Testing completed, working on frontend!                                                | [user_controller](https://documenter.getpostman.com/view/7935280/SWLk251p) |
 | 15  | Front-end Integration                                                                      | [website link](https://getmypgonline.herokuapp.com)                        |
 | 16  | Login Added on [GetMyPGOnline](https://getmypgonline.herokuapp.com) & Understood Shopkart! | [Repo](https://github.com/RitwickBhargav/GetMyPGOnline) & Private Repo     |
-| 17  | Working on Shopkart workflow!                                                              | Private Repo                                                               |
-| 18  |                                                                                            |                                                                            |
+| 17  | Working on Shopkart workflow!                                                              | [Repo](https://github.com/RitwickBhargav/Shopkart-Inc.)                    |
+| 18  | Shopkart Started!                                                                          | [Repo](https://github.com/RitwickBhargav/Shopkart-Inc.)                    |
 | 19  |                                                                                            |                                                                            |
 | 20  |                                                                                            |                                                                            |
 | 21  |                                                                                            |                                                                            |
