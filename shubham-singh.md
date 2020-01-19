@@ -22,7 +22,7 @@
 |16|Worked on app for SIH|[Repo](https://github.com/shubham100ev/help_me)|
 |17|Lucky Division<br>Chat room<br> Twins|[AC](https://codeforces.com/contest/122/submission/68988010)<br>[AC](https://codeforces.com/contest/58/submission/68985793)<br>[AC](https://codeforces.com/contest/160/submission/68983389)|
 |18|Worked on app for SIH<br>Presents|[Repo](https://github.com/shubham100ev/help_me)<br>[AC](http://codeforces.com/contest/136/submission/69067726)|
-|19|Arrival of the General|[AC](http://codeforces.com/contest/144/submission/69097942)|
+|19|Arrival of the General<br>Game With Sticks|[AC](http://codeforces.com/contest/144/submission/69097942)<br>[AC](http://codeforces.com/contest/451/submission/69099650)|
 |20|||
 |21|||
 |22|||
