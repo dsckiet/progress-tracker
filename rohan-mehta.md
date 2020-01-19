@@ -21,8 +21,8 @@
 |15|Took some break off coding|[YouTube](https://youtube.com)|
 |16|Working on Private project - coderbano|Private repo|
 |17|College hits|[KIET](http://kiet.edu)|
-|18|||
-|19|||
+|18|Working on Private project - coderbano|Private repo|
+|19|Working on Private project - coderbano|Private repo|
 |20|||
 |21|||
 |22|||
