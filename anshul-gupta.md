@@ -22,7 +22,7 @@
 |16|Same course and Trivia(Quiz) App |[Repo](https://github.com/Anshul1507/Udacity-Kotlin/tree/master/AndroidTrivia)|
 |17|Learn About App Navigation|[Repo](https://github.com/Anshul1507/Udacity-Kotlin/tree/master/AndroidTrivia)|
 |18|Solve Problems on CF:<br>[Problem 1-(B) Vanya and Strings](https://codeforces.com/contest/492/problem/B) <br> [Problem 2-(B) T-primes](https://codeforces.com/contest/230/problem/B) <br> [Problem 3-(A) New Year and Hurry](https://codeforces.com/contest/750/problem/A) <br> [Problem 4-(B) Interesting Drinks](https://codeforces.com/contest/706/problem/B)|<br> [AC](https://codeforces.com/contest/492/submission/69045566) <br> [AC](https://codeforces.com/contest/230/submission/69049774) <br> [AC](https://codeforces.com/contest/750/submission/69051227) <br> [AC](https://codeforces.com/contest/706/submission/69052428) 
-|19|||
+|19|CF Problems:<br> [Problem 1-(A) Sweet Problem](https://codeforces.com/contest/1263/problem/A) <br> [Problem 2-(B) Worms](https://codeforces.com/contest/474/problem/B) |<br>[AC](https://codeforces.com/contest/1263/submission/69150223) <br> [AC](https://codeforces.com/contest/474/submission/69152548)|
 |20|||
 |21|||
 |22|||
