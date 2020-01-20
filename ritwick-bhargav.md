@@ -23,7 +23,7 @@
 | 17  | Working on Shopkart workflow!                                                              | [Repo](https://github.com/RitwickBhargav/Shopkart-Inc.)                    |
 | 18  | Shopkart Started!                                                                          | [Repo](https://github.com/RitwickBhargav/Shopkart-Inc.)                    |
 | 19  | Worked on Shopkart!                                                                        | [Repo](https://github.com/RitwickBhargav/Shopkart-Inc.)                    |
-| 20  |                                                                                            |                                                                            |
+| 20  | Sorting out the approach for Shopkart!                                                     | [Repo](https://github.com/RitwickBhargav/Shopkart-Inc.)                    |
 | 21  |                                                                                            |                                                                            |
 | 22  |                                                                                            |                                                                            |
 | 23  |                                                                                            |                                                                            |
