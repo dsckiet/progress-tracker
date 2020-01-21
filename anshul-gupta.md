@@ -24,7 +24,7 @@
 |18|Solve Problems on CF:<br>[Problem 1-(B) Vanya and Strings](https://codeforces.com/contest/492/problem/B) <br> [Problem 2-(B) T-primes](https://codeforces.com/contest/230/problem/B) <br> [Problem 3-(A) New Year and Hurry](https://codeforces.com/contest/750/problem/A) <br> [Problem 4-(B) Interesting Drinks](https://codeforces.com/contest/706/problem/B)|<br> [AC](https://codeforces.com/contest/492/submission/69045566) <br> [AC](https://codeforces.com/contest/230/submission/69049774) <br> [AC](https://codeforces.com/contest/750/submission/69051227) <br> [AC](https://codeforces.com/contest/706/submission/69052428) 
 |19|CF Problems:<br> [Problem 1-(A) Sweet Problem](https://codeforces.com/contest/1263/problem/A) <br> [Problem 2-(B) Worms](https://codeforces.com/contest/474/problem/B) |<br>[AC](https://codeforces.com/contest/1263/submission/69150223) <br> [AC](https://codeforces.com/contest/474/submission/69152548)|
 |20|CF Problems:<br> [Problem 1-(A) ConneR and the ARC Markland-N](https://codeforces.com/contest/1293/problem/A) <br> [Problem 2-(B) JOE is on TV!](https://codeforces.com/contest/1293/problem/B) <br> [Problem 3-(C) Number of Ways](https://codeforces.com/contest/466/problem/C)|<br> [AC](https://codeforces.com/contest/1293/submission/69195058) <br> [AC](https://codeforces.com/contest/1293/submission/69181379) <br> [AC](https://codeforces.com/contest/466/submission/69157232)|
-|21|||
+|21|Learn About Android Activity/Fragment/ViewModels <br> and Translucent Activities/Launch Modes Life Cycle|[Repo](https://github.com/Anshul1507/Udacity-Kotlin/tree/master/DessertPusher) <br> [Medium Link](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-i-single-activities-e49fd3d202ab)|
 |22|||
 |23|||
 |24|||
