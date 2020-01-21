@@ -23,8 +23,8 @@
 |17|PRTAGN|[Partial](https://www.codechef.com/viewsolution/29031252)|
 |18|PRTAGN<br>COWA19F<br>COWA19C<br>2A<br>Day-3(Codathon)|[AC](https://www.codechef.com/viewsolution/29031339)<br>[AC](https://www.codechef.com/viewsolution/29041565)<br>[AC](https://www.codechef.com/viewsolution/29041805)<br>[AC](https://codeforces.com/contest/2/submission/69061708)<br>Partial(ongoing contest)|
 |19|Worked on bmi calculator app<br>solved few problems on hackerearth and codechef|[view]()<br>update soon|
-|20|worked on bmi calculator app|[view]()|
-|21|||
+|20|worked on bmi calculator app|[view](https://github.com/sgshubham98/bmi-calculator-flutter)|
+|21|worked on bmi calculator app|[view](https://github.com/sgshubham98/bmi-calculator-flutter)|
 |22|||
 |23|||
 |24|||
