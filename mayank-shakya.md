@@ -22,7 +22,7 @@
 | 16  | Convert kiet-ssb into react                                                                       | [Repo](https://github.com/dsckiet/kiet-ssb-academy) |
 | 17  | Worked on changes and deployment of kiet ssb academy website                                      | [Repo](https://github.com/dsckiet/kiet-ssb-react)   |
 | 18  | Started javascript path from frontend master and learning basic python | Frontend Masters                                                    |
-| 19  |                                                                                                   |                                                     |
+| 19  | Resume JS and CP from Hackerrank | Frontend Masters                                                    |
 | 20  |                                                                                                   |                                                     |
 | 21  |                                                                                                   |                                                     |
 | 22  |                                                                                                   |                                                     |
