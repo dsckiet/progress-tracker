@@ -25,7 +25,7 @@
 |19|Worked on bmi calculator app<br>solved few problems on hackerearth and codechef|[view]()<br>update soon|
 |20|worked on bmi calculator app|[view](https://github.com/sgshubham98/bmi-calculator-flutter)|
 |21|worked on bmi calculator app|[view](https://github.com/sgshubham98/bmi-calculator-flutter)|
-|22|||
+|22|BMI Calculator|[view](https://github.com/sgshubham98/bmi-calculator-flutter)|
 |23|||
 |24|||
 |25|||
