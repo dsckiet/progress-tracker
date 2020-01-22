@@ -25,7 +25,7 @@
 |19|Arrival of the General<br>Game With Sticks|[AC](http://codeforces.com/contest/144/submission/69097942)<br>[AC](http://codeforces.com/contest/451/submission/69099650)|
 |20|Games<br>Dubstep|[AC](https://codeforces.com/contest/268/submission/69194724)<br>[AC](https://codeforces.com/contest/208/submission/69202306)|
 |21|Young Physicist<br>Puzzles|[AC](https://codeforces.com/contest/69/submission/69264154)<br>[AC](https://codeforces.com/contest/337/submission/69266182)|
-|22|||
+|22|Expression|[AC](https://codeforces.com/contest/479/submission/69371095)|
 |23|||
 |24|||
 |25|||
