@@ -27,7 +27,7 @@
 |21|Young Physicist<br>Puzzles|[AC](https://codeforces.com/contest/69/submission/69264154)<br>[AC](https://codeforces.com/contest/337/submission/69266182)|
 |22|Expression|[AC](https://codeforces.com/contest/479/submission/69371095)|
 |23|||
-|24|||
+|24|Anton and Letters|[AC](http://codeforces.com/contest/443/submission/69439857)|
 |25|||
 |26|||
 |27|||
