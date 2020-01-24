@@ -26,8 +26,8 @@
 |20|CF Problems:<br> [Problem 1-(A) ConneR and the ARC Markland-N](https://codeforces.com/contest/1293/problem/A) <br> [Problem 2-(B) JOE is on TV!](https://codeforces.com/contest/1293/problem/B) <br> [Problem 3-(C) Number of Ways](https://codeforces.com/contest/466/problem/C)|<br> [AC](https://codeforces.com/contest/1293/submission/69195058) <br> [AC](https://codeforces.com/contest/1293/submission/69181379) <br> [AC](https://codeforces.com/contest/466/submission/69157232)|
 |21|Learn About Android Activity/Fragment/ViewModels <br> and Translucent Activities/Launch Modes Life Cycle|[Repo](https://github.com/Anshul1507/Udacity-Kotlin/tree/master/DessertPusher) <br> [Medium Link](https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-i-single-activities-e49fd3d202ab)|
 |22|CF Problems:<br>[Problem 1-(A) Collecting  Coins](https://codeforces.com/contest/1294/problem/A)<br> [Problem 2-(B) Collecting Packages](https://codeforces.com/contest/1294/problem/B)<br>[Problem 3-(C) Product of Three Numbers](https://codeforces.com/contest/1294/problem/C)|<br>[AC](https://codeforces.com/contest/1294/submission/69374831)<br>[AC](https://codeforces.com/contest/1294/submission/69374541)<br>[AC](https://codeforces.com/contest/1294/submission/69376954)|
-|23|||
-|24|||
+|23|REST|😴😴|
+|24|Learn About App Component Architecture, Live Data, <br>Model View View Model(MVVM),UI Controller|[Repo](https://github.com/Anshul1507/Udacity-Kotlin/tree/master/GuessIt)|
 |25|||
 |26|||
 |27|||
