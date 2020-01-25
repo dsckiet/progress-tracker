@@ -28,7 +28,7 @@
 |22|BMI Calculator|[view](https://github.com/sgshubham98/bmi-calculator-flutter)|
 |23|BMI Calculator|[view](https://github.com/sgshubham98/bmi-calculator-flutter)|
 |24|BMI Calculator|[view](https://github.com/sgshubham98/bmi-calculator-flutter)|
-|25|||
+|25|BMI Calculator|[view](https://github.com/sgshubham98/bmi-calculator-flutter)|
 |26|||
 |27|||
 |28|||
