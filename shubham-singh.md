@@ -28,7 +28,7 @@
 |22|Expression|[AC](https://codeforces.com/contest/479/submission/69371095)|
 |23|||
 |24|Anton and Letters|[AC](http://codeforces.com/contest/443/submission/69439857)|
-|25|||
+|25|I Wanna Be the Guy|[AC](http://codeforces.com/contest/469/submission/69511709)|
 |26|||
 |27|||
 |28|||
