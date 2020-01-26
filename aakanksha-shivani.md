@@ -26,9 +26,9 @@
 |20|||
 |21| Contributed in Interview for New Candidates||
 |22|Decided workflow of Flutter Workshop||
-|23|||
-|24|||
-|25|||
+|23|Discussed and planned SIH app||
+|24|Registration form of DSC members <br> Permission for flutter Bootcamp||
+|25|Day one ppt for flutter bootcamp|[Private Link](https://docs.google.com/presentation/d/1n3nb3R0y5K-PV_6pHcpkiGGGrg-_Tkun5yPbBGDJTps/edit#slide=id.g6382023a2e_1_4)|
 |26|||
 |27|||
 |28|||
