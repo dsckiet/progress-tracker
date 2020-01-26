@@ -29,7 +29,7 @@
 |23|REST|😴😴|
 |24|Learn About App Component Architecture, Live Data, <br>Model View View Model(MVVM),UI Controller|[Repo](https://github.com/Anshul1507/Udacity-Kotlin/tree/master/GuessIt)|
 |25|CF Problems:<br> [Probelm 1-(A) Elephant](https://codeforces.com/contest/617/problem/A) <br> [Problem 2-(A) George and Accommodation](https://codeforces.com/contest/467/problem/A) <br> [Problem 3-(A) Translation](https://codeforces.com/contest/41/problem/A) <br> [Problem 4-(A) Kefa and First Steps](https://codeforces.com/contest/580/problem/A) <br> [Problem 5-(B) Drinks](https://codeforces.com/contest/200/problem/B) <br> [Problem 6-(B) A and B and Compilation Errors](https://codeforces.com/contest/519/problem/B) <br> [Problem 7-(B) Sereja and Suffixes](https://codeforces.com/contest/368/problem/B) <br> [Problem 8-(C) Given Length and Sum of Digits](https://codeforces.com/contest/489/problem/C) <br> [Problem 9-(C) Registration System](https://codeforces.com/contest/4/problem/C)|<br> [AC](https://codeforces.com/contest/617/submission/69505793) <br> [AC](https://codeforces.com/contest/467/submission/69505895) <br> [AC](https://codeforces.com/contest/41/submission/69506138) <br> [AC](https://codeforces.com/contest/580/submission/69506682) <br> [AC](https://codeforces.com/contest/200/submission/69506903) <br> [AC](https://codeforces.com/contest/519/submission/69522782) <br> [AC](https://codeforces.com/contest/368/submission/69525310) <br> [AC](https://codeforces.com/contest/489/submission/69518975) <br> [AC](https://codeforces.com/contest/4/submission/69520386)|
-|26|||
+|26|Attempted CodeNation Republic Day Drive 🚩(Solved 1 ques) |Private Link|
 |27|||
 |28|||
 |29|||
