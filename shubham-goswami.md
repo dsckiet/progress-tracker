@@ -31,7 +31,7 @@
 |25|BMI Calculator|[view](https://github.com/sgshubham98/bmi-calculator-flutter)|
 |26|||
 |27|Flutter BootCamp|[view](https://github.com/dsckiet/flutter-bootcamp)|
-|28|||
+|28|Flutter BootCamp|[view](https://github.com/dsckiet/flutter-bootcamp)|
 |29|||
 |30|||
 |31|||
