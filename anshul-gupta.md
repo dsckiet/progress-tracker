@@ -32,7 +32,7 @@
 |26|Attempted CodeNation Republic Day Drive 🚩(Solved 1 ques) |Private Link|
 |27|CF Problems: <br> [Problem 1-(A) Hit the Lottery](https://codeforces.com/contest/996/problem/A) <br> [Problem 2-(A) Hotelier](https://codeforces.com/contest/1200/problem/A) <br> [Problem 3-(B) BerSU Ball](https://codeforces.com/contest/489/problem/B)|<br> [AC](https://codeforces.com/contest/996/submission/69596817) <br> [AC](https://codeforces.com/contest/1200/submission/69609114) <br> [AC](https://codeforces.com/contest/1200/submission/69609114)|
 |28|Learn About LiveData with ViewModel & DataBinding <br> CF Problems: <br> [Problem 1-(B) Polycarp Training](https://codeforces.com/contest/1165/problem/B) <br> [Problem 2-(B) Han Solo and Lazer Gun](https://codeforces.com/contest/514/problem/B) |[Repo](https://github.com/Anshul1507/Udacity-Kotlin/tree/master/GuessIt) <br><br> [AC](https://codeforces.com/contest/1165/submission/69660266) <br> [AC](https://codeforces.com/contest/514/submission/69661326)|
-|29|REST|😴😴|
+|29|Learn About App Architecture (Persistance) |[Repo](https://github.com/Anshul1507/Udacity-Kotlin/tree/master/SleepTracker)|
 |30|||
 |31|||
 
