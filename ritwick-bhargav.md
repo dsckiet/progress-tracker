@@ -31,10 +31,9 @@
 | 25  | Working on user_controller in Shopkart again!                                                                                                                                    | [Repo](https://github.com/RitwickBhargav/Shopkart-Inc.)                    |
 | 26  | Working on user_controller in Shopkart again!                                                                                                                                    | [Repo](https://github.com/RitwickBhargav/Shopkart-Inc.)                    |
 | 27  | Basic user_controller done!                                                                                                                                                      | [Repo](https://github.com/RitwickBhargav/Shopkart-Inc.)                    |
-
-| 28 | | |
-| 29 | | |
-| 30 | | |
-| 31 | | |
+| 28  | Working on shop_controller!                                                                                                                                                      | [Repo](https://github.com/RitwickBhargav/Shopkart-Inc.)                    |
+| 29  |                                                                                                                                                                                  |                                                                            |
+| 30  |                                                                                                                                                                                  |                                                                            |
+| 31  |                                                                                                                                                                                  |                                                                            |
 
 ---
