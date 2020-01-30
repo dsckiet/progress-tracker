@@ -33,7 +33,7 @@
 | 27  | Basic user_controller done!                                                                                                                                                      | [Repo](https://github.com/RitwickBhargav/Shopkart-Inc.)                    |
 | 28  | Working on shop_controller!                                                                                                                                                      | [Repo](https://github.com/RitwickBhargav/Shopkart-Inc.)                    |
 | 29  | Working on shop_controller!                                                                                                                                                      | [Repo](https://github.com/RitwickBhargav/Shopkart-Inc.)                    |
-| 30  |                                                                                                                                                                                  |                                                                            |
+| 30  | Working on shop_controller!                                                                                                                                                      | [Repo](https://github.com/RitwickBhargav/Shopkart-Inc.)                    |
 | 31  |                                                                                                                                                                                  |                                                                            |
 
 ---
