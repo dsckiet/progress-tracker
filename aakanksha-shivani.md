@@ -31,8 +31,8 @@
 |25|Day one ppt for flutter bootcamp|[Private Link](https://docs.google.com/presentation/d/1n3nb3R0y5K-PV_6pHcpkiGGGrg-_Tkun5yPbBGDJTps/edit#slide=id.g6382023a2e_1_4)|
 |26|Day 2 ppt for flutter bootcamp|[Private Link](https://docs.google.com/presentation/d/19SFH-NDxf6f_mRFZMQvbFnrovUcLySfei98lWXcY-rA/edit#slide=id.g7ce461015f_1_4)|
 |27|Bootcamp day 1 introduction||
-|28||Bootcamp day 2 Installation||
-|29||Bootcamp day 3 basics ||
-|30||Bootcamp day 4 UI and layouts||
+|28|Bootcamp day 2 Installation||
+|29|Bootcamp day 3 basics ||
+|30|Bootcamp day 4 UI and layouts||
 |31|||
 ## Additional Information
