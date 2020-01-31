@@ -34,6 +34,6 @@
 | 28  | Working on shop_controller!                                                                                                                                                      | [Repo](https://github.com/RitwickBhargav/Shopkart-Inc.)                    |
 | 29  | Working on shop_controller!                                                                                                                                                      | [Repo](https://github.com/RitwickBhargav/Shopkart-Inc.)                    |
 | 30  | Working on shop_controller!                                                                                                                                                      | [Repo](https://github.com/RitwickBhargav/Shopkart-Inc.)                    |
-| 31  |                                                                                                                                                                                  |                                                                            |
+| 31  | Working on shop_controller!                                                                                                                                                      | [Repo](https://github.com/RitwickBhargav/Shopkart-Inc.)                    |
 
 ---
