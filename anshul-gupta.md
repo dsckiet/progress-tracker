@@ -1,8 +1,7 @@
 ## 🚀 __Timeline__ 🚀
+
 <details>
-<summary> 
- January, 2020
-</summary> <br>
+<summary> January, 2020 </summary> <br>
 
 |Day|What did you worked on?|Link|
 |-------|------|--------|
@@ -41,10 +40,8 @@
 </details>
 
 <details>
-<summary>
-February, 2020
-</summary> <br>
-  
+<summary> February, 2020 </summary> <br>
+
 |Day|What did you worked on?|Link|
 |-------|------|--------|
 |1|Hack-VSIT|[Repo](https://github.com/Anshul1507/hack-vsit-2020)|||
@@ -78,6 +75,5 @@ February, 2020
 |29|||
 
 </details>
-
 
 ## Additional Information
