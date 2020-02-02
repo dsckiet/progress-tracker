@@ -43,5 +43,6 @@
 | Day | What did you worked on?     | Link                                                    |
 | --- | --------------------------- | ------------------------------------------------------- |
 | 1   | Working on shop_controller! | [Repo](https://github.com/RitwickBhargav/Shopkart-Inc.) |
+| 2   | Accessing QRcode in Node.js | No Repo                                                 |
 
 ---
