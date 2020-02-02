@@ -40,8 +40,6 @@
 
 </details>
 
----
-
 <details>
 <summary>
 February, 2020
