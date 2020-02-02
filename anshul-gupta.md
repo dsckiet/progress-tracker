@@ -43,7 +43,7 @@
 |Day|What did you worked on?|Link|
 |-------|------|--------|
 |1|Hack-VSIT|[Repo](https://github.com/Anshul1507/hack-vsit-2020)|||
-|2|||
+|2|Sunday REST|😴😴|
 |3|||
 |4|||
 |5|||
