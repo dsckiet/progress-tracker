@@ -34,5 +34,5 @@
 |28|Bootcamp day 2 Installation||
 |29|Bootcamp day 3 basics ||
 |30|Bootcamp day 4 UI and layouts||
-|31|||
+|31|Bootcamp day 5 ||
 ## Additional Information
