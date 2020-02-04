@@ -7,7 +7,7 @@
 |1|web scraping with bs4||
 |2|cp and more web scraping||
 |3|interacting with apis||
-|4|||
+|4|started a personal project||
 |5|||
 |6|||
 |7|||
