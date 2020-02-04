@@ -7,7 +7,7 @@
 |1|I Wanna Be the Guy|[AC](https://codeforces.com/contest/469/submission/69900806)|
 |2|||
 |3|Android Task:a movies app|[Repo](https://github.com/akanksha606/Megabox)|
-|4|CF PROBLEM:<br>div 2A:Even Odds|[AC](https://codeforces.com/contest/318/submission/70235814)|
+|4|CF PROBLEM:<br>div 2A:Even Odds<br>div 2A:Cheap Travel|[AC](https://codeforces.com/contest/318/submission/70235814)<br>[AC](https://codeforces.com/contest/466/submission/70304235)|
 |5|||
 |6|||
 |7|||
