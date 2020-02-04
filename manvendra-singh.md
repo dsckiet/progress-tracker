@@ -6,7 +6,7 @@
 |-------|------|--------|
 |1|||
 |2|||
-|3|Udacitu course on Android|[Link](https://classroom.udacity.com/courses/ud834)|
+|3|Udacity course on Android|[Link](https://classroom.udacity.com/courses/ud834)|
 |4|||
 |5|||
 |6|||
