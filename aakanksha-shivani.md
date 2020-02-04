@@ -33,6 +33,40 @@
 |27|Bootcamp day 1 introduction||
 |28|Bootcamp day 2 Installation||
 |29|Bootcamp day 3 basics ||
-|30|Bootcamp day 4 UI and layouts||
-|31|||
+|30|Bootcamp day 4 UI and layouts|[Repo](https://github.com/dsckiet/flutter-bootcamp/blob/master/day4.dart)|
+|31|Bootcamp day 5 |[Repo](https://github.com/dsckiet/flutter-bootcamp/blob/master/day5.dart)|
+
+> **February, 2020**
+
+|Day|What did you worked on?|Link|
+|-------|------|--------|
+|1|Bootcamp day 6 , making dice app|[Repo](https://github.com/dsckiet/flutter-bootcamp/blob/master/day6dicee.dart)|
+|2|||
+|3|||
+|4|||
+|5|||
+|6|||
+|7|||
+|8|||
+|9|||
+|10|||
+|11|||
+|12|||
+|13|||
+|14|||
+|15|||
+|16|||
+|17|||
+|18|||
+|19|||
+|20|||
+|21|||
+|22|||
+|23|||
+|24|||
+|25|||
+|26|||
+|27|||
+|28|||
+|29|||
 ## Additional Information
