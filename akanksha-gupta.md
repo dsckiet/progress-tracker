@@ -4,7 +4,7 @@
 
 |Day|What did you worked on?|Link|
 |-------|------|--------|
-|1|||
+|1|I Wanna Be the Guy|[AC](https://codeforces.com/contest/469/submission/69900806)|
 |2|||
 |3|Android Task:a movies app|[Repo](https://github.com/akanksha606/Megabox)|
 |4|||
