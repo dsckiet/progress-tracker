@@ -1,6 +1,9 @@
 ## Timeline
 
-> **January, 2020**
+<details>
+<summary>
+<b>January, 2020</b>
+</summary>
 
 |Day|What did you worked on?|Link|
 |-------|------|--------|
@@ -35,10 +38,14 @@
 |29|Flutter BootCamp|[view](https://github.com/dsckiet/flutter-bootcamp)|
 |30|Flutter BootCamp|[view](https://github.com/dsckiet/flutter-bootcamp)|
 |31|Flutter BootCamp|[view](https://github.com/dsckiet/flutter-bootcamp)|
+</details>
 
 ---
 
-> **Feburary, 2020**
+<details open>
+<summary>
+<b>Feburary, 2020</b>
+</summary>
 
 |Day|What did you worked on?|Link|
 |-------|------|--------|
@@ -70,6 +77,6 @@
 |26|||
 |27|||
 |28|||
-
+</details>
 
 ## Additional Information
