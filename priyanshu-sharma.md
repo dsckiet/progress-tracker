@@ -8,8 +8,8 @@
 |2|cp and more web scraping||
 |3|interacting with apis||
 |4|started a personal project||
-|5|||
-|6|||
+|5|learn basics of matplotlib for the project||
+|6|Many to many relationships||
 |7|||
 |8|||
 |9|||
