@@ -43,8 +43,8 @@
 |1|Bootcamp day 6 , making dice app|[Repo](https://github.com/dsckiet/flutter-bootcamp/blob/master/day6dicee.dart)|
 |2|||
 |3|||
-|4|||
-|5|||
+|4|Testing encryption in flutter|[Repo](https://github.com/dsckiet/flutter-encrypted-client)|
+|5|Testing encryption in flutter||
 |6|||
 |7|||
 |8|||
