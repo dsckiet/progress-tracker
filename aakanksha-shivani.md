@@ -45,8 +45,8 @@
 |3|||
 |4|Testing encryption in flutter|[Repo](https://github.com/dsckiet/flutter-encrypted-client)|
 |5|Testing encryption in flutter||
-|6|Worked On private project SportsWorld|Private Repo|
-|7|Worked On private project SportsWorld|Private Repo|
+|6|Worked On client project SportsWorld|Private Repo|
+|7|Worked On client project SportsWorld|Private Repo|
 |8|||
 |9|||
 |10|||
