@@ -10,7 +10,7 @@
 |4|started a personal project||
 |5|learn basics of matplotlib for the project||
 |6|Many to many relationships||
-|7|||
+|7|learned about RESTapis||
 |8|||
 |9|||
 |10|||
