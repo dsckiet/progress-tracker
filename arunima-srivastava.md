@@ -7,7 +7,7 @@
 |3|||
 |4|||
 |5|Started lesson 1 kotlin||
-|6|Lesson 1 complete|Repo:https://github.com/arunima8jan/Dice-Roller|
+|6|Lesson 1 complete|[Repo](https://github.com/arunima8jan/Dice-Roller)|
 |7|||
 |8|||
 |9|||
