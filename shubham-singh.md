@@ -34,10 +34,23 @@
 |28|||
 |29|||
 |30|||
-|31|||
+|31|HackVSIT|[Repo](https://github.com/ShashankJaitly/Ethereum-Track-EWcoin-/tree/master/android)|
 
 
 
 ---
+
+> **February, 2020**
+
+|Day|What did you worked on?|Link|
+|-------|------|--------|
+|1|HackVSIT|[Repo](https://github.com/ShashankJaitly/Ethereum-Track-EWcoin-/tree/master/android)|
+|2|||
+|3|||
+|4|Tried AES Decryption Flutter|[Repo](https://github.com/dsckiet/flutter-encrypted-client)|
+|5|Tried AES Decryption Flutter|[Repo](https://github.com/dsckiet/flutter-encrypted-client)|
+|6|Worked On client project SportsWorld|Private Repo|
+|7|Worked On client project SportsWorld|Private Repo|
+|8|Worked On client project SportsWorld|Private Repo|
 
 ## Additional Information
