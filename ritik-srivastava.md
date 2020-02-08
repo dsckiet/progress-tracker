@@ -1,8 +1,12 @@
 ## Timeline
 
+<details>
+<summary>
+<b>January, 2020</b>
+</summary>
+
 | Day                | What did you worked on?                                             | Link                                                                          |
 | ------------------ | ------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| **January, 2020**  |
 | 1                  | Internship Tasks                                                    | Private Repo                                                                  |
 | 2                  | Social login in React                                               | Private Repo                                                                  |
 | 3                  | Internship Tasks<br> Social login in React                          | Private Repo<br> Private Repo                                                 |
@@ -34,15 +38,23 @@
 | 29                 | Bootcamp Attendence System                                          | Private Repo                                                                  |
 | 30                 | Bootcamp Attendence System                                          | Private Repo                                                                  |
 | 31                 | Hackathon Project                                                   | [Repo](https://github.com/rhnmht30/hack-vsit-2020)                            |
-| **February, 2020** |
+
+</details>
+<details open>
+<summary>
+<b>February, 2020</b>
+</summary>
+
+| Day                | What did you worked on?                                             | Link                                                                          |
+| ------------------ | ------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | 1                  | Hackathon Project                                                   | [Repo](https://github.com/rhnmht30/hack-vsit-2020)                            |
-| 2                  |                                                                     |                                                                               |
-| 3                  |                                                                     |                                                                               |
-| 4                  |                                                                     |                                                                               |
-| 5                  |                                                                     |                                                                               |
-| 6                  |                                                                     |                                                                               |
-| 7                  |                                                                     |                                                                               |
-| 8                  |                                                                     |                                                                               |
+| 2                  | -                                                                   | -                                                                             |
+| 3                  | Internship Tasks                                                    | Private Repo                                                                  |
+| 4                  | Internship Tasks                                                    | Private Repo                                                                  |
+| 5                  | Internship Tasks                                                    | Private Repo                                                                  |
+| 6                  | Internship Tasks<br> Lift Queries                                   | Private Repo<br> [AC](https://www.hackerearth.com/submission/35981774/)       |
+| 7                  | Internship Tasks<br> Search It!<br> Sum Sum Sumzy                   | Private Repo<br> [WA] Private Contest<br> [TLE] Private Contest               |
+| 8                  | Internship Tasks                                                    | Private Repo                                                                  |
 | 9                  |                                                                     |                                                                               |
 | 10                 |                                                                     |                                                                               |
 | 11                 |                                                                     |                                                                               |
@@ -65,5 +77,6 @@
 | 28                 |                                                                     |                                                                               |
 
 ---
+</details>
 
 ## Additional Information
