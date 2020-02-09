@@ -49,10 +49,10 @@
 |3|Learn About Room Database|[Repo](https://github.com/Anshul1507/Udacity-Kotlin/tree/master/SleepTracker)|
 |4|REST|😴😴|
 |5|Make Questions for Feb Challenge|Private Link|
-|6|||
-|7|||
-|8|||
-|9|||
+|6|REST|😴😴|
+|7|REST|😴😴|
+|8|REST|😴😴|
+|9|Revise App Architecture (Back to Track)|[Repo](https://github.com/Anshul1507/Udacity-Kotlin/tree/master/SleepTracker)|
 |10|||
 |11|||
 |12|||
