@@ -12,4 +12,4 @@
 |6|Creating a node website for internal hackathon|Private Repo|
 |7|Creating a node website for internal hackathon|Private Repo|
 |8|Creating a node website for internal hackathon|Private Repo|
-|9|Setting up my new Laptop|Private Repo|
+|9|Setting up my new Laptop||
