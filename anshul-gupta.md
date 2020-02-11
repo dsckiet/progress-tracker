@@ -53,8 +53,8 @@
 |7|REST|😴😴|
 |8|REST|😴😴|
 |9|Revise App Architecture (Back to Track)|[Repo](https://github.com/Anshul1507/Udacity-Kotlin/tree/master/SleepTracker)|
-|10|||
-|11|||
+|10|DSC-KIET App Upgrading in Kotlin|Coming Soon|
+|11|DSC-KIET App + CodeChef Long Feb Challenge (2 Questions)|[Long Challenge](https://www.codechef.com/FEB20B)|
 |12|||
 |13|||
 |14|||
