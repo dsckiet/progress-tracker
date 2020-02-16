@@ -27,17 +27,30 @@
 |21|Young Physicist<br>Puzzles|[AC](https://codeforces.com/contest/69/submission/69264154)<br>[AC](https://codeforces.com/contest/337/submission/69266182)|
 |22|Expression|[AC](https://codeforces.com/contest/479/submission/69371095)|
 |23|||
-|24|||
-|25|||
+|24|Anton and Letters|[AC](http://codeforces.com/contest/443/submission/69439857)|
+|25|I Wanna Be the Guy<br>Even Odds|[AC](http://codeforces.com/contest/469/submission/69511709)<br>[AC](http://codeforces.com/contest/318/submission/69518205)|
 |26|||
 |27|||
 |28|||
 |29|||
 |30|||
-|31|||
+|31|HackVSIT|[Repo](https://github.com/ShashankJaitly/Ethereum-Track-EWcoin-/tree/master/android)|
 
 
 
 ---
+
+> **February, 2020**
+
+|Day|What did you worked on?|Link|
+|-------|------|--------|
+|1|HackVSIT|[Repo](https://github.com/ShashankJaitly/Ethereum-Track-EWcoin-/tree/master/android)|
+|2|||
+|3|||
+|4|Tried AES Decryption Flutter|[Repo](https://github.com/dsckiet/flutter-encrypted-client)|
+|5|Tried AES Decryption Flutter|[Repo](https://github.com/dsckiet/flutter-encrypted-client)|
+|6|Worked On client project SportsWorld|Private Repo|
+|7|Worked On client project SportsWorld|Private Repo|
+|8|Worked On client project SportsWorld|Private Repo|
 
 ## Additional Information

@@ -9,7 +9,7 @@
 |3|Android Task:a movies app|[Repo](https://github.com/akanksha606/Megabox)|
 |4|div 2A:Even Odds<br>div 2A:Cheap Travel|[AC](https://codeforces.com/contest/318/submission/70235814)<br>[AC](https://codeforces.com/contest/466/submission/70304235)|
 |5|div 2A: Ilya and Bank Account|[AC](https://codeforces.com/contest/313/submission/70361855)|
-|6|||
+|6|Dice Roller(My first app in kotlin)<br>lesson 1(Udacity)|[Repo](https://github.com/akanksha606/Dice-Roller)|
 |7|||
 |8|||
 |9|||
