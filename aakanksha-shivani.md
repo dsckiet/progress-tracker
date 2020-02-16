@@ -47,14 +47,14 @@
 |5|Testing encryption in flutter||
 |6|Worked On client project SportsWorld|Private Repo|
 |7|Worked On client project SportsWorld|Private Repo|
-|8|||
-|9|||
-|10|||
-|11|||
-|12|||
-|13|||
-|14|||
-|15|||
+|8|Worked On client project SportsWorld|Private Repo|
+|9|Worked On client project SportsWorld|Private Repo|
+|10|Worked On client project SportsWorld|Private Repo|
+|11|Made Resume for Intership applications||
+|12|CT -1prep||
+|13|CT 1||
+|14|CT-1||
+|15|CT-1||
 |16|||
 |17|||
 |18|||
