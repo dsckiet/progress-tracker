@@ -52,5 +52,15 @@
 |6|Worked On client project SportsWorld|Private Repo|
 |7|Worked On client project SportsWorld|Private Repo|
 |8|Worked On client project SportsWorld|Private Repo|
+|9|Worked On client project SportsWorld|Private Repo|
+|10|Worked On client project SportsWorld|Private Repo|
+|11|||
+|12|CT-1| - |
+|13|CT-1| - |
+|14|CT-1| - |
+|15|||
+|16|Movie| - |
+|17|||
+
 
 ## Additional Information
