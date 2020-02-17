@@ -43,18 +43,18 @@
 |1|Bootcamp day 6 , making dice app|[Repo](https://github.com/dsckiet/flutter-bootcamp/blob/master/day6dicee.dart)|
 |2|||
 |3|||
-|4|||
-|5|||
-|6|||
-|7|||
-|8|||
-|9|||
-|10|||
-|11|||
-|12|||
-|13|||
-|14|||
-|15|||
+|4|Testing encryption in flutter|[Repo](https://github.com/dsckiet/flutter-encrypted-client)|
+|5|Testing encryption in flutter|[Link](https://github.com/shivaniaakanksha/flutter-encrypted-client)|
+|6|Worked On client project SportsWorld|Private Repo|
+|7|Worked On client project SportsWorld|Private Repo|
+|8|Worked On client project SportsWorld|Private Repo|
+|9|Worked On client project SportsWorld|Private Repo|
+|10|Worked On client project SportsWorld|Private Repo|
+|11|Made Resume for Intership applications| - |
+|12|CT-1| - |
+|13|CT-1| - |
+|14|CT-1| - |
+|15|CT-1| - |
 |16|||
 |17|||
 |18|||
