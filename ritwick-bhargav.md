@@ -37,3 +37,13 @@
 | 31  | Working on shop_controller!                                                                                                                                                      | [Repo](https://github.com/RitwickBhargav/Shopkart-Inc.)                    |
 
 ---
+
+> **February, 2020**
+
+| Day | What did you worked on?     | Link                                                    |
+| --- | --------------------------- | ------------------------------------------------------- |
+| 1   | Working on shop_controller! | [Repo](https://github.com/RitwickBhargav/Shopkart-Inc.) |
+| 2   | Accessing QRcode in Node.js | No Repo                                                 |
+| 3   | Working on shop_controller! | [Repo](https://github.com/RitwickBhargav/Shopkart-Inc.) |
+
+---
