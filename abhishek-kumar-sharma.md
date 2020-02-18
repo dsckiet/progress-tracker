@@ -12,4 +12,12 @@
 |6|Creating a node website for internal hackathon|Private Repo|
 |7|Creating a node website for internal hackathon|Private Repo|
 |8|Creating a node website for internal hackathon|Private Repo|
-|9|Setting up my new Laptop||
+|9|||
+|10|Learning JS|[Link]: https://www.eduonix.com/dashboard/modern-javascript-for-developers|
+|11|Learning JS|[Link]: https://www.eduonix.com/dashboard/modern-javascript-for-developers|
+|12|||
+|13|||
+|14|||
+|15|||
+|16|Learning JS|[Link]: https://www.eduonix.com/dashboard/modern-javascript-for-developers|
+|17|Learning JS|[Link]: https://www.eduonix.com/dashboard/modern-javascript-for-developers|
