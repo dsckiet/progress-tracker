@@ -62,11 +62,11 @@
 |16|Start Working on DSC-KIET App|[Repo](https://github.com/Anshul1507/DSCKIET)|
 |17|Splash and basic structure of Login and Register(Animations)|[Repo](https://github.com/Anshul1507/DSCKIET)|
 |18|Improve Login UI|[Repo](https://github.com/Anshul1507/DSCKIET)|
-|19|||
-|20|||
-|21|||
-|22|||
-|23|||
+|19|No Work|😴😴|
+|20|Added Register UI in app|[Repo](https://github.com/Anshul1507/DSCKIET)|
+|21|Chilling out|😴😴|
+|22|Profile UI in app|[Repo](https://github.com/Anshul1507/DSCKIET)|
+|23|Codeforces Contest #622 Rank: 3444/11699 and InfyTQ test|[Contest Link](https://codeforces.com/contests/1313)|
 |24|||
 |25|||
 |26|||
