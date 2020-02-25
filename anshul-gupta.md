@@ -53,20 +53,20 @@
 |7|REST|😴😴|
 |8|REST|😴😴|
 |9|Revise App Architecture (Back to Track)|[Repo](https://github.com/Anshul1507/Udacity-Kotlin/tree/master/SleepTracker)|
-|10|DSC-KIET App Upgrading in Kotlin|Coming Soon|
+|10|DSC-KIET App Upgrading in Kotlin|[Repo](https://github.com/Anshul1507/DSCKIET)|
 |11|DSC-KIET App + CodeChef Long Feb Challenge (2 Questions)|[Long Challenge](https://www.codechef.com/FEB20B)|
 |12|CT||
 |13|CT||
 |14|CT||
 |15|CT||
-|16|Start Working on DSC-KIET App||
-|17|||
-|18|||
-|19|||
-|20|||
-|21|||
-|22|||
-|23|||
+|16|Start Working on DSC-KIET App|[Repo](https://github.com/Anshul1507/DSCKIET)|
+|17|Splash and basic structure of Login and Register(Animations)|[Repo](https://github.com/Anshul1507/DSCKIET)|
+|18|Improve Login UI|[Repo](https://github.com/Anshul1507/DSCKIET)|
+|19|No Work|😴😴|
+|20|Added Register UI in app|[Repo](https://github.com/Anshul1507/DSCKIET)|
+|21|Chilling out|😴😴|
+|22|Profile UI in app|[Repo](https://github.com/Anshul1507/DSCKIET)|
+|23|Codeforces Contest #622 Rank: 3444/11699 and InfyTQ test|[Contest Link](https://codeforces.com/contests/1313)|
 |24|||
 |25|||
 |26|||
