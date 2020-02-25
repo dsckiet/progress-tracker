@@ -67,8 +67,8 @@
 | 18  | Internship Tasks                                  | Private Repo                                                            |
 | 19  | Internship Tasks                                  | Private Repo                                                            |
 | 20  | Internship Tasks                                  | Private Repo                                                            |
-| 21  |                                                   |                                                                         |
-| 22  |                                                   |                                                                         |
+| 21  | February Circuits<br> Internship Tasks            | [WA]<br> Private Repo                                                                        |
+| 22  | Internship Tasks                                  | Private Repo                                                                        |
 | 23  |                                                   |                                                                         |
 | 24  |                                                   |                                                                         |
 | 25  |                                                   |                                                                         |
