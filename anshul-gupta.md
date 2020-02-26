@@ -67,9 +67,9 @@
 |21|Chilling out|😴😴|
 |22|Profile UI in app|[Repo](https://github.com/Anshul1507/DSCKIET)|
 |23|Codeforces Contest #622 Rank: 3444/11699 and InfyTQ test|[Contest Link](https://codeforces.com/contests/1313)|
-|24|||
-|25|||
-|26|||
+|24|Codeforces Contest #624 Rank: 6527/10653 |[Contest Link](https://codeforces.com/contest/1311)|
+|25|CodeChef Contest UWCOI 2020 Rank: 776/1409 |[Contest Link](https://www.codechef.com/UWCOI20)|
+|26|Solved CodeChef Beginner Problems |[Link](https://www.codechef.com/problems/school)|
 |27|||
 |28|||
 |29|||
