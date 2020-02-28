@@ -38,39 +38,39 @@
 
 > **February, 2020**
 
-| Day | What did you worked on?       | Link                                                  |
-| --- | ----------------------------- | ----------------------------------------------------- |
-| 1   | At home                       |                                                       |
-| 2   | At home                       |                                                       |
-| 3   | DSC Connect Design            |                                                       |
-| 4   | DSC-connect react             | [Repo](https://github.com/dsckiet/dsc-connect-client) |
-| 5   | DSC-connect react             | [Repo](https://github.com/dsckiet/dsc-connect-client) |
-| 6   | DSC-connect react             | [Repo](https://github.com/dsckiet/dsc-connect-client) |
-| 7   | DSC-connect react ,ui changes | [Repo](https://github.com/dsckiet/dsc-connect-client) |
-| 8   | DSC-connect react ,ui changes | [Repo](https://github.com/dsckiet/dsc-connect-client) |
-| 9   | DSC-connect react ,ui changes | [Repo](https://github.com/dsckiet/dsc-connect-client) |
-| 10  |                               |                                                       |
-| 11  |                               |                                                       |
-| 12  |                               |                                                       |
-| 13  |                               |                                                       |
-| 14  |                               |                                                       |
-| 15  |                               |                                                       |
-| 16  |                               |                                                       |
-| 17  |                               |                                                       |
-| 18  |                               |                                                       |
-| 19  |                               |                                                       |
-| 20  |                               |                                                       |
-| 21  |                               |                                                       |
-| 22  |                               |                                                       |
-| 23  |                               |                                                       |
-| 24  |                               |                                                       |
-| 25  |                               |                                                       |
-| 26  |                               |                                                       |
-| 27  |                               |                                                       |
-| 28  |                               |                                                       |
-| 29  |                               |                                                       |
-| 30  |                               |                                                       |
-| 31  |                               |                                                       |
+| Day | What did you worked on?        | Link                                                  |
+| --- | ------------------------------ | ----------------------------------------------------- |
+| 1   | At home                        |                                                       |
+| 2   | At home                        |                                                       |
+| 3   | DSC Connect Design             |                                                       |
+| 4   | DSC-connect react              | [Repo](https://github.com/dsckiet/dsc-connect-client) |
+| 5   | DSC-connect react              | [Repo](https://github.com/dsckiet/dsc-connect-client) |
+| 6   | DSC-connect react              | [Repo](https://github.com/dsckiet/dsc-connect-client) |
+| 7   | DSC-connect react ,ui changes  | [Repo](https://github.com/dsckiet/dsc-connect-client) |
+| 8   | DSC-connect react ,ui changes  | [Repo](https://github.com/dsckiet/dsc-connect-client) |
+| 9   | DSC-connect react ,ui changes  | [Repo](https://github.com/dsckiet/dsc-connect-client) |
+| 10  | DSC-connect react ,ui changes  | [Repo](https://github.com/dsckiet/dsc-connect-client) |
+| 11  | DSC-connect react ,ui changes  | [Repo](https://github.com/dsckiet/dsc-connect-client) |
+| 12  | Sessionals                     |                                                       |
+| 13  | Sessionals                     |                                                       |
+| 14  | Sessionals                     |                                                       |
+| 15  | Sessionals                     |                                                       |
+| 16  | Movie                          |                                                       |
+| 17  | DSC Connect Backend            | Private Repo                                          |
+| 18  | DSC Connect Backend            | Private Repo                                          |
+| 19  | DSC Connect Backend            | Private Repo                                          |
+| 20  | Manali Trip                    |                                                       |
+| 21  | Manali Trip                    |                                                       |
+| 22  | Manali Trip                    |                                                       |
+| 23  | Manali Trip                    |                                                       |
+| 24  | DSC Connect Backend            | Private Repo                                          |
+| 25  | API testing and integration    | [Repo](https://github.com/dsckiet/dsc-connect-client) |
+| 26  | Changes in API and integration | [Repo](https://github.com/dsckiet/dsc-connect-client) |
+| 27  | Changes in API and integration | [Repo](https://github.com/dsckiet/dsc-connect-client) |
+| 28  |                                |                                                       |
+| 29  |                                |                                                       |
+| 30  |                                |                                                       |
+| 31  |                                |                                                       |
 
 ---
 
