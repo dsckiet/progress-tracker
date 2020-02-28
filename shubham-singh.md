@@ -64,7 +64,6 @@
 |18|Worked On client project SportsWorld|Private Repo|
 |19|Worked On client project SportsWorld|Private Repo|
 |20|Worked On client project SportsWorld|Private Repo|
-<<<<<<< HEAD
 |21|Manali| - |
 |22|Manali| - |
 |23|Manali| - |
@@ -72,9 +71,5 @@
 |25|Worked On client project SportsWorld|Private Repo|
 |26|Worked On client project SportsWorld|Private Repo|
 |27|Worked On client project SportsWorld|Private Repo|
-=======
-
->>>>>>> 8faddf8e91e4703acfd20ab8abc570e1fe5dc13f
-
 
 ## Additional Information
