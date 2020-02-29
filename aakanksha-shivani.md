@@ -68,5 +68,5 @@
 |26|Worked On client project SportsWorld|Private Repo|
 |27|Worked On client project SportsWorld|Private Repo|
 |28|Worked On client project SportsWorld|Private Repo|
-|29|Exploaring GSOC 2020|[Link](https://summerofcode.withgoogle.com/organizations/)|
+|29|Exploring GSOC 2020|[Link](https://summerofcode.withgoogle.com/organizations/)|
 ## Additional Information
