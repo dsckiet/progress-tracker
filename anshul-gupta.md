@@ -44,6 +44,44 @@
 
 |Day|What did you worked on?|Link|
 |-------|------|--------|
+|1|Hack-VSIT|[Repo](https://github.com/Anshul1507/hack-vsit-2020)|||
+|2|Sunday REST|😴😴|
+|3|Learn About Room Database|[Repo](https://github.com/Anshul1507/Udacity-Kotlin/tree/master/SleepTracker)|
+|4|REST|😴😴|
+|5|Make Questions for Feb Challenge|Private Link|
+|6|REST|😴😴|
+|7|REST|😴😴|
+|8|REST|😴😴|
+|9|Revise App Architecture (Back to Track)|[Repo](https://github.com/Anshul1507/Udacity-Kotlin/tree/master/SleepTracker)|
+|10|DSC-KIET App Upgrading in Kotlin|[Repo](https://github.com/Anshul1507/DSCKIET)|
+|11|DSC-KIET App + CodeChef Long Feb Challenge (2 Questions)|[Long Challenge](https://www.codechef.com/FEB20B)|
+|12|CT||
+|13|CT||
+|14|CT||
+|15|CT||
+|16|Start Working on DSC-KIET App|[Repo](https://github.com/Anshul1507/DSCKIET)|
+|17|Splash and basic structure of Login and Register(Animations)|[Repo](https://github.com/Anshul1507/DSCKIET)|
+|18|Improve Login UI|[Repo](https://github.com/Anshul1507/DSCKIET)|
+|19|No Work|😴😴|
+|20|Added Register UI in app|[Repo](https://github.com/Anshul1507/DSCKIET)|
+|21|Chilling out|😴😴|
+|22|Profile UI in app|[Repo](https://github.com/Anshul1507/DSCKIET)|
+|23|Codeforces Contest #622 Rank: 3444/11699 and InfyTQ test|[Contest Link](https://codeforces.com/contests/1313)|
+|24|Codeforces Contest #624 Rank: 6527/10653 |[Contest Link](https://codeforces.com/contest/1311)|
+|25|CodeChef Contest UWCOI 2020 Rank: 776/1409 |[Contest Link](https://www.codechef.com/UWCOI20)|
+|26|Solved CodeChef Beginner Problems |[Link](https://www.codechef.com/problems/school)|
+|27|||
+|28|||
+|29|||
+
+</details>
+
+
+<details>
+<summary> March, 2020 </summary> <br>
+
+|Day|What did you worked on?|Link|
+|-------|------|--------|
 |1|Codeforces Contest #625 Rank : 4697/8977|[Link](https://codeforces.com/contest/1321)|
 |2|Learn Map Concept |[Link](https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/)|
 |3|||
