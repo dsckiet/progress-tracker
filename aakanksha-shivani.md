@@ -56,17 +56,17 @@
 |14|CT-1| - |
 |15|CT-1| - |
 |16|||
-|17|||
-|18|||
-|19|||
-|20|||
-|21|||
-|22|||
-|23|||
+|17|Worked On client project SportsWorld|Private Repo|
+|18|Worked On client project SportsWorld|Private Repo|
+|19|Worked On client project SportsWorld|Private Repo|
+|20|Worked On client project SportsWorld|Private Repo|
+|21|Worked On client project SportsWorld|Private Repo|
+|22| MEETUP - Let's Flutter with Aeologics| - |
+|23|Worked On client project SportsWorld|Private Repo|
 |24|||
-|25|||
-|26|||
-|27|||
-|28|||
-|29|||
+|25|Worked On client project SportsWorld|Private Repo|
+|26|Worked On client project SportsWorld|Private Repo|
+|27|Worked On client project SportsWorld|Private Repo|
+|28|Worked On client project SportsWorld|Private Repo|
+|29|Exploring GSOC 2020|[Link](https://summerofcode.withgoogle.com/organizations/)|
 ## Additional Information
