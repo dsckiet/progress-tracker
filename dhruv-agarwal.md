@@ -3,7 +3,7 @@
 
 
 > **February,2020**
-|Image Classifier(Build CNN in keras)|[link](https://github.com/dhruvagg987/dog_vs_cat)|
+|Image Classifier(Build CNN in keras)|[link](https://github.com/dhruvagg987/DogVsCat)|
 > **March, 2020**
 
 |Day|What did you worked on?|Link|
