@@ -70,9 +70,51 @@
 |24|Codeforces Contest #624 Rank: 6527/10653 |[Contest Link](https://codeforces.com/contest/1311)|
 |25|CodeChef Contest UWCOI 2020 Rank: 776/1409 |[Contest Link](https://www.codechef.com/UWCOI20)|
 |26|Solved CodeChef Beginner Problems |[Link](https://www.codechef.com/problems/school)|
+|27|Solved CodeChef Beginner Problems |[Link](https://www.codechef.com/problems/school)|
+|28|CodeChef Feb Lunch Time|[Link](http://www.codechef.com/LTIME81B)|
+|29|Chilling out|😴😴|
+
+</details>
+
+
+<details>
+<summary> March, 2020 </summary> <br>
+
+|Day|What did you worked on?|Link|
+|-------|------|--------|
+|1|Codeforces Contest #625 Rank : 4697/8977|[Link](https://codeforces.com/contest/1321)|
+|2|Learn Map Concept |[Link](https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/)|
+|3|Codeforces Contest Ozon Tech Challenge 2020 (Div.1 + Div.2)|[Link](https://codeforces.com/contest/1305)|
+|4|||
+|5|||
+|6|||
+|7|||
+|8|||
+|9|||
+|10|||
+|11|||
+|12|||
+|13|||
+|14|||
+|15|||
+|16|||
+|17|||
+|18|||
+|19|||
+|20|||
+|21|||
+|22|||
+|23|||
+|24|||
+|25|||
+|26|||
 |27|||
 |28|||
 |29|||
+|30|||
+|31|||
+
+
 
 </details>
 
