@@ -4,26 +4,26 @@
 
 | Day | What did you worked on?  | Link    |
 | --- | ------------------------ | ------- |
-|1|||
-|2|||
-|3|||
-|4|||
-|5|||
-|6|||
-|7|||
-|8|||
-|9|||
-|10|||
-|11|||
+|1|-|-|
+|2|-|-|
+|3|-|-|
+|4|-|-|
+|5|-|-|
+|6|-|-|
+|7|-|-|
+|8|-|-|
+|9|-|-|
+|10|-|-|
+|11|-|-|
 |12|Dragons <br> Queue at the School |[view](https://codeforces.com/contest/230/submission/68633415) <br> [view](https://codeforces.com/contest/266/submission/68633754)|
 |13|Dreamoon and Stairs <br> Xenia and Ringroad|[view](https://codeforces.com/contest/476/submission/68725374) <br> [view](https://codeforces.com/contest/339/submission/68725825)|
 |14|Team Olympiad (codeforces LA)|[view](https://codeforces.com/contest/490/submission/68793081)|
 |15|Finalized features for SIH App <br> Integrating mapbox in flutter ||
 |16|SIH app features experiments|[view](https://github.com/shivaniaakanksha/SIH_2020_sample)|
 |17|Added current location on HomeScreen|[view](https://github.com/shivaniaakanksha/help_me)|
-|18|||
-|19|||
-|20|||
+|18|-|-|
+|19|-|-|
+|20|-|-|
 |21| Contributed in Interview for New Candidates||
 |22|Decided workflow of Flutter Workshop||
 |23|Discussed and planned SIH app||
@@ -41,8 +41,8 @@
 |Day|What did you worked on?|Link|
 |-------|------|--------|
 |1|Bootcamp day 6 , making dice app|[Repo](https://github.com/dsckiet/flutter-bootcamp/blob/master/day6dicee.dart)|
-|2|||
-|3|||
+|2|-|-|
+|3|-|-|
 |4|Testing encryption in flutter|[Repo](https://github.com/dsckiet/flutter-encrypted-client)|
 |5|Testing encryption in flutter|[Link](https://github.com/shivaniaakanksha/flutter-encrypted-client)|
 |6|Worked On client project SportsWorld|Private Repo|
@@ -55,7 +55,7 @@
 |13|CT-1| - |
 |14|CT-1| - |
 |15|CT-1| - |
-|16|||
+|16|-|-|
 |17|Worked On client project SportsWorld|Private Repo|
 |18|Worked On client project SportsWorld|Private Repo|
 |19|Worked On client project SportsWorld|Private Repo|
@@ -70,18 +70,16 @@
 |28|Worked On client project SportsWorld|Private Repo|
 |29|Exploring GSOC 2020|[Link](https://summerofcode.withgoogle.com/organizations/)|
 
-
-
 > **March, 🤯🐱‍💻2020**
 
 | Day | What did you worked on?  | Link    |
 | --- | ------------------------ | ------- |
-|1|||
-|2|||
-|3|||
+|1|-|-|
+|2|-|-|
+|3|-|-|
 |4|Worked On client project SportsWorld|Private Repo
-|5|||
-|6|||
+|5|-|-|
+|6|-|-|
 |7|Worked On client project SportsWorld|Private Repo|
 |8|Worked On client project SportsWorld|Private Repo|
 |9|||
@@ -107,6 +105,5 @@
 |29|||
 |30|||
 |31|||
-
 
 ## Additional Information
