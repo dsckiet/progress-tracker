@@ -85,18 +85,18 @@
 |1|Codeforces Contest #625 Rank : 4697/8977|[Link](https://codeforces.com/contest/1321)|
 |2|Learn Map Concept |[Link](https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/)|
 |3|Codeforces Contest Ozon Tech Challenge 2020 (Div.1 + Div.2)|[Link](https://codeforces.com/contest/1305)|
-|4|||
-|5|||
-|6|||
-|7|||
-|8|||
-|9|||
-|10|||
-|11|||
-|12|||
-|13|||
-|14|||
-|15|||
+|4|-|-|
+|5|-|-|
+|6|-|-|
+|7|-|-|
+|8|CodeChef Long Challenge|[Link](https://www.codechef.com/MARCH20B)|
+|9|Codeforces Educational Round|[Link](https://codeforces.com/contest/1312)|
+|10|--holi--|-|
+|11|Starts NODE-JS with codewithmosh course <br> Node module System <br> Node Package Manager| [Link](https://github.com/Anshul1507/codewithmosh-nodejs) |
+|12|Codeforces Div.3 Round Rank: 4302/18216|[Link](https://codeforces.com/contest/1324)|
+|13|CodeChef Long Challene March |[Link](https://www.codechef.com/MARCH20B)|
+|14|Codeforces #628 Div.2 Round Rank: 3248/14766|[Link](https://codeforces.com/contest/1325)|
+|15|Node-js: Asynchronous JavaScript-> Callbacks,Named Functions and Promises |-|
 |16|||
 |17|||
 |18|||
