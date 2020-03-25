@@ -97,16 +97,16 @@
 |13|CodeChef Long Challene March |[Link](https://www.codechef.com/MARCH20B)|
 |14|Codeforces #628 Div.2 Round Rank: 3248/14766|[Link](https://codeforces.com/contest/1325)|
 |15|Node-js: Asynchronous JavaScript-> Callbacks,Named Functions and Promises |-|
-|16|||
-|17|||
-|18|||
-|19|||
-|20|||
-|21|||
-|22|||
-|23|||
-|24|||
-|25|||
+|16|Node-js: Await Async Promises |[Link](https://github.com/Anshul1507/codewithmosh-nodejs)|
+|17|Node-js: Mongo DB Connection |-|
+|18|Node-js: Mongo DB Operations |-|
+|19|Practice Questions on Binary Search|[Submissions](https://codeforces.com/submissions/Anshul1507)|
+|20|Learn Volley Networking in Kotlin |[Link](https://github.com/Anshul1507/Udacity-Kotlin/tree/master/VolleyDemo)|
+|21|Started Sample App - Movie Info App |[Link](https://github.com/Anshul1507/MovieInfo)|
+|22|Working on Same App, Learn Retrofit with RxJava2 and MVVM |[Link](https://github.com/Anshul1507/MovieInfo)|
+|23|Transfer Portfolio to Netlify Server <br> CodeForces Contest Educational Round 84: Rank 7224/16951 |[Portfolio](https://anshulgupta.netlify.com/) <br> [Link](https://codeforces.com/contest/1327)|
+|24|Work on Movie Info app: Added Popular Movie Section |[Link](https://github.com/Anshul1507/MovieInfo)|
+|25|Work on Movie Info app: Added youtube parser and Chrome Custom Tabs |[Link](https://github.com/Anshul1507/MovieInfo)|
 |26|||
 |27|||
 |28|||
