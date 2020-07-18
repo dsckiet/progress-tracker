@@ -70,7 +70,20 @@
 |30|||
 |31|||
 
+> **July, 2020**
 
+|Day|What did you worked on?|Link|
+|-------|------|--------|
+|1|Newsletter-APP|[Repo](https://github.com/ShashankJaitly/Newsletter-App)|
+|2|Newsletter-APP|[Repo](https://github.com/ShashankJaitly/Newsletter-App)|
+|4|Newsletter-APP|[Repo](https://github.com/ShashankJaitly/Newsletter-App)|
+|5|Newsletter-APP, Profile Readme|[Repo](https://github.com/ShashankJaitly/Newsletter-App),[Repo](https://github.com/ShashankJaitly/ShashankJaitly)|
+|9|Add Celery worker to Newsletter-APP|[Repo](https://github.com/ShashankJaitly/Newsletter-App)|
+|10|Update Profile Readme|[Repo](https://github.com/ShashankJaitly/ShashankJaitly)|
+|11|Update Profile Readme|[Repo](https://github.com/ShashankJaitly/ShashankJaitly)|
+|15|Sports-Programming add new solutions|[Repo](https://github.com/ShashankJaitly/sports-programming-codeforces)|
+|16|Sports-Programming add new solutions|[Repo](https://github.com/ShashankJaitly/sports-programming-codeforces)|
+|17|Sports-Programming add Contest Problem Solution|[Repo](https://github.com/ShashankJaitly/sports-programming-codeforces)|
 
 ---
 
