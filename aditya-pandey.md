@@ -1,1 +1,10 @@
-
+# Progress Tracker v1.0 - DSCKIET
+## Progress Information - 2020
+### Week #1 (11 July - 18 July)
+- #### Development 
+  - Learned concepts of Job & Job status handling 
+  - Implmentation of parallel background tasks using Async() & Await()
+  - Fixed 1 issue in an Open Source Project
+  - Learned a few Git commands
+- #### CP
+  - Solved the following problems : [Codeforces] 1157A, 1165A, 581B, 427B, 767A, 227B, 1038B, 534A, 545B, 1030B, 287A, 166A, 835B
