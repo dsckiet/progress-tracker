@@ -3,7 +3,7 @@
 ### Week #1 (11 July - 18 July)
 - #### Development 
   - Learned concepts of Job & Job status handling 
-  - Implmentation of parallel background tasks using Async() & Await()
+  - Implementation of parallel background tasks using Async() & Await()
   - Fixed 1 issue in an Open Source Project
   - Learned a few Git commands
   - Created Dark mode color theme for covid-19 tracker
