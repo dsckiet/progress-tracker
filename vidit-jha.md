@@ -21,7 +21,7 @@
 |14|Fixed few bugs in covid tracker app|[Repo Link](https://github.com/jhavidit/covid-tracker-android-app)|
 |15|Added notification and UI changes in covid tracker app|[Repo Link](https://github.com/jhavidit/covid-tracker-android-app)|
 |16|1 Question on codeforces and worked on covid tracker app|[Link](https://www.stopstalk.com/user/submissions/jhavidit) [Repo Link](https://github.com/jhavidit/covid-tracker-android-app)|
-|17|6 Question on condeforces|[Link](https://www.stopstalk.com/user/submissions/jhavidit)|
+|17|6 Question on codeforces|[Link](https://www.stopstalk.com/user/submissions/jhavidit)|
 |18|||
 |19|||
 |20|||
