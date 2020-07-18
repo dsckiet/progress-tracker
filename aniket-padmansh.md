@@ -15,11 +15,11 @@
 |9   |||
 |10  |||
 |11  |||
-|12  |learing react forms via course              |[repo]https://github.com/padmansh/react-apps/box-maker                   |
+|12  |learing react forms via course              |[repo](https://github.com/padmansh/react-apps/box-maker)                   |
 |13  |learing react router via course             |                                                                         |
-|14  |working on Covid-project ambulance dashboard|[repo]https://github.com/padmansh/covid-project-react/tree/master/static/|
-|15  |working on Covid-project ambulance dashboard|[repo]https://github.com/padmansh/covid-project-react/tree/master/static/|
-|16  |working on Covid-project ambulance dashboard|[repo]https://github.com/padmansh/covid-project-react/tree/master/static/|
+|14  |working on Covid-project ambulance dashboard|[repo](https://github.com/padmansh/covid-project-react/tree/master/static/)|
+|15  |working on Covid-project ambulance dashboard|[repo](https://github.com/padmansh/covid-project-react/tree/master/static/)|
+|16  |working on Covid-project ambulance dashboard|[repo](https://github.com/padmansh/covid-project-react/tree/master/static/)|
 |17  |learing react hooks and working on joke-app |                                                                         |
 |18|||
 |19|||
