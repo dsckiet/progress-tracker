@@ -6,5 +6,7 @@
   - Implmentation of parallel background tasks using Async() & Await()
   - Fixed 1 issue in an Open Source Project
   - Learned a few Git commands
+  - Created Dark mode color theme for covid-19 tracker
+  - Designed wireframes for covid project
 - #### CP
   - Solved the following problems : [Codeforces] 1157A, 1165A, 581B, 427B, 767A, 227B, 1038B, 534A, 545B, 1030B, 287A, 166A, 835B
