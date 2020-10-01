@@ -48,3 +48,12 @@
 | 4   | Working on shop_controller! | [Repo](https://github.com/RitwickBhargav/Shopkart-Inc.) |
 
 ---
+
+> **October, 2020**
+
+| Day | What did you worked on?     | Link                                                    |
+| --- | --------------------------- | ------------------------------------------------------- |
+| 1   | Hacktober First PR | [Repo](https://github.com/dsckiet/progress-tracker) |
+| 2   | Hacktober Second PR | [Repo](https://github.com/dsckiet/progress-tracker) |
+
+---
