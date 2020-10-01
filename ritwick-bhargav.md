@@ -54,5 +54,6 @@
 | Day | What did you worked on?     | Link                                                    |
 | --- | --------------------------- | ------------------------------------------------------- |
 | 1   | Hacktober First PR | [Repo](https://github.com/dsckiet/progress-tracker) |
+| 2   | Hacktober Second PR | [Repo](https://github.com/dsckiet/progress-tracker) |
 
 ---
